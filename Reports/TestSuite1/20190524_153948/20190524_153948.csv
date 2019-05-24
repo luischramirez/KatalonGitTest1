@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Firefox 67.0,,,2019-05-24 15:39:52,2019-05-24 15:40:13,"20,866s",PASSED
+,,,,,,,
+Test Cases/Test 1 by David,Firefox 67.0,,,2019-05-24 15:39:52,2019-05-24 15:40:02,"10,091s",PASSED
+"openBrowser("""")",Firefox 67.0,,,2019-05-24 15:39:53,2019-05-24 15:39:58,"5,094s",PASSED
+"navigateToUrl(""lifecharger.org"")",Firefox 67.0,,,2019-05-24 15:39:58,2019-05-24 15:40:01,"3,105s",PASSED
+closeBrowser(),Firefox 67.0,,,2019-05-24 15:40:01,2019-05-24 15:40:02,"1,131s",PASSED
+,,,,,,,
+Test Cases/Test 1 by Luis,Firefox 67.0,,,2019-05-24 15:40:02,2019-05-24 15:40:12,"10,307s",PASSED
+"openBrowser(""https://www.katalon.com"")",Firefox 67.0,,,2019-05-24 15:40:03,2019-05-24 15:40:11,"8,792s",PASSED
+closeBrowser(),Firefox 67.0,,,2019-05-24 15:40:11,2019-05-24 15:40:12,"1,080s",PASSED

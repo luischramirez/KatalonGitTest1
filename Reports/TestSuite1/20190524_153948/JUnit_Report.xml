@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="20" tests="2" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="2" failures="0" errors="0" time="20" timestamp="2019-05-24 15:39:52" hostname="DESKTOP-24D2EAK$ - DESKTOP-24D2EAK" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Equipo 9\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20190524_153948"/>
+         <property name="logFiles" value="C:\\Users\\Equipo 9\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20190524_153948\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DESKTOP-24D2EAK$ - DESKTOP-24D2EAK"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.3.3"/>
+         <property name="browser" value="Firefox 67.0"/>
+         <property name="hostAddress" value="192.168.0.56"/>
+         <property name="sessionId" value="806170d5-fd64-4bac-8054-bab2aabbc63f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test 1 by David" classname="Test Cases/Test 1 by David" status="PASSED">
+         <system-out><![CDATA[2019-05-24 15:39:52 - [TEST_CASE][PASSED] - Test Cases/Test 1 by David: Test Cases/Test 1 by David
+
+2019-05-24 15:39:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-24 15:39:53 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-24 15:39:53 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-05-24 15:39:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-24 15:39:58 - [TEST_STEP][PASSED] - navigateToUrl("lifecharger.org"): Navigate to 'http://lifecharger.org' successfully
+
+2019-05-24 15:40:01 - [MESSAGE][PASSED] - Navigate to 'http://lifecharger.org' successfully
+
+2019-05-24 15:40:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-24 15:40:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test 1 by Luis" classname="Test Cases/Test 1 by Luis" status="PASSED">
+         <system-out><![CDATA[2019-05-24 15:40:02 - [TEST_CASE][PASSED] - Test Cases/Test 1 by Luis: Test Cases/Test 1 by Luis
+
+2019-05-24 15:40:03 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com"): Browser is opened with url: 'https://www.katalon.com'
+
+2019-05-24 15:40:03 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-24 15:40:11 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com'
+
+2019-05-24 15:40:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-24 15:40:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-24 15:39:52 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/Test 1 by Luis]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
